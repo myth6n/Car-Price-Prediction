@@ -1,7 +1,7 @@
 import logging 
 logging.basicConfig()
 logger = logging.error()
-a = 12
-b = 3
+a = 122
+b = 322
 print (a +b)
-c=151
+c=15112
